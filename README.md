@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hidden23062009
+- 👋 Hi, I’m HiddenDash
 - 👀 I’m interested in
 - 🌱 I’m currently learning Javascript, Python
 - 💞️ I’m looking to collaborate on
